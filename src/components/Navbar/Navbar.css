@@ -1,0 +1,42 @@
+nav {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 44px;
+    color: #fff;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    text-transform: uppercase;
+    cursor: pointer;
+    
+}
+
+.brand {
+    color: chocolate;
+}
+
+.brand:hover {
+    color: white;
+}

@@ -1,0 +1,25 @@
+.bloc-right p {
+    color: white;
+    padding: 0.5rem;
+    font-size: 1.3rem;
+}
+
+.bloc-right h2 {
+    color: white; 
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+@media screen and (max-width: 1070px) {
+    .bloc-right p {
+        font-size: 1.1rem;
+    }
+
+    .bloc-right h2 {
+        font-size: 1.7rem;
+    }
+
+
+  }

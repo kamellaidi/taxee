@@ -1,0 +1,37 @@
+.cars {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 6rem;
+  }
+  
+  .cars-title {
+    font-size: 3rem;
+    margin: 1rem;
+    color: #ccc;
+  }
+  
+  .cars-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    background-color: #ccc;
+    padding: 2rem;
+    margin: 1rem;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+  }
+  
+  
+  @media screen and (max-width: 955px) {
+    .cars-box {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+  }
+  

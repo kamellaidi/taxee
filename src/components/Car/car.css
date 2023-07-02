@@ -1,0 +1,38 @@
+.cars-inner-box {
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    height: auto;
+    max-height: 50%;
+    width: 33%;
+  }
+  
+  .cars-img {
+    width: 15rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+  }
+  
+  .cars-inner-box h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .cars-inner-box p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+
+    
+  @media screen and (max-width: 955px) {
+    .cars-inner-box {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
