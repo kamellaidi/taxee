@@ -4,7 +4,6 @@ const taxis =
         "id": 1,
         "category": "Standard",
         "vehicle_type": "Break",
-        "engine_type": "Essence",
         "seats": 4,
         "driver": {
           "name": "Bob",
@@ -15,7 +14,6 @@ const taxis =
         "id": 2,
         "category": "Luxe",
         "vehicle_type": "SUV",
-        "engine_type": "Diesel",
         "seats": 6,
         "driver": {
           "name": "Alice",
@@ -26,7 +24,6 @@ const taxis =
         "id": 3,
         "category": "Écologique",
         "vehicle_type": "Berline",
-        "engine_type": "Électrique",
         "seats": 3,
         "driver": {
           "name": "Charlie",
@@ -37,7 +34,6 @@ const taxis =
         "id": 4,
         "category": "Standard",
         "vehicle_type": "Compact",
-        "engine_type": "Essence",
         "seats": 5,
         "driver": {
           "name": "Eva",
@@ -48,7 +44,6 @@ const taxis =
         "id": 5,
         "category": "Luxe",
         "vehicle_type": "Limousine",
-        "engine_type": "Essence",
         "seats": 8,
         "driver": {
           "name": "Victor",
@@ -59,7 +54,6 @@ const taxis =
         "id": 6,
         "category": "Écologique",
         "vehicle_type": "Hybride",
-        "engine_type": "Essence/Électrique",
         "seats": 4,
         "driver": {
           "name": "Sophie",
@@ -70,7 +64,6 @@ const taxis =
         "id": 7,
         "category": "Standard",
         "vehicle_type": "Berline",
-        "engine_type": "Diesel",
         "seats": 4,
         "driver": {
           "name": "Maxime",
@@ -81,7 +74,6 @@ const taxis =
         "id": 8,
         "category": "Luxe",
         "vehicle_type": "Coupé",
-        "engine_type": "Essence",
         "seats": 2,
         "driver": {
           "name": "Olivia",
@@ -92,7 +84,6 @@ const taxis =
         "id": 9,
         "category": "Écologique",
         "vehicle_type": "Vélo électrique",
-        "engine_type": "Électrique",
         "seats": 1,
         "driver": {
           "name": "Luc",
@@ -103,7 +94,6 @@ const taxis =
         "id": 10,
         "category": "Standard",
         "vehicle_type": "Citadine",
-        "engine_type": "Essence",
         "seats": 4,
         "driver": {
           "name": "Hélène",
@@ -114,7 +104,6 @@ const taxis =
         "id": 11,
         "category": "Luxe",
         "vehicle_type": "Berline",
-        "engine_type": "Hybride",
         "seats": 4,
         "driver": {
           "name": "Louis",
@@ -125,7 +114,6 @@ const taxis =
         "id": 12,
         "category": "Écologique",
         "vehicle_type": "Monospace",
-        "engine_type": "Électrique",
         "seats": 7,
         "driver": {
           "name": "Julie",
@@ -136,7 +124,6 @@ const taxis =
         "id": 13,
         "category": "Standard",
         "vehicle_type": "Cabriolet",
-        "engine_type": "Essence",
         "seats": 2,
         "driver": {
           "name": "Thomas",
@@ -147,7 +134,6 @@ const taxis =
         "id": 14,
         "category": "Luxe",
         "vehicle_type": "Mini-van",
-        "engine_type": "Diesel",
         "seats": 7,
         "driver": {
           "name": "Camille",
@@ -158,7 +144,6 @@ const taxis =
         "id": 15,
         "category": "Écologique",
         "vehicle_type": "Bus électrique",
-        "engine_type": "Électrique",
         "seats": 20,
         "driver": {
           "name": "Martin",
@@ -169,7 +154,6 @@ const taxis =
         "id": 16,
         "category": "Standard",
         "vehicle_type": "Fourgonnette",
-        "engine_type": "Essence",
         "seats": 9,
         "driver": {
           "name": "Emma",
@@ -180,7 +164,6 @@ const taxis =
         "id": 17,
         "category": "Luxe",
         "vehicle_type": "Limousine",
-        "engine_type": "Hybride",
         "seats": 10,
         "driver": {
           "name": "Alexandre",
@@ -191,7 +174,6 @@ const taxis =
         "id": 18,
         "category": "Écologique",
         "vehicle_type": "Trottinette électrique",
-        "engine_type": "Électrique",
         "seats": 1,
         "driver": {
           "name": "Sarah",
@@ -202,7 +184,6 @@ const taxis =
         "id": 19,
         "category": "Standard",
         "vehicle_type": "Monospace",
-        "engine_type": "Diesel",
         "seats": 6,
         "driver": {
           "name": "Romain",
@@ -213,7 +194,6 @@ const taxis =
         "id": 20,
         "category": "Luxe",
         "vehicle_type": "Berline",
-        "engine_type": "Hybride",
         "seats": 4,
         "driver": {
           "name": "Clara",

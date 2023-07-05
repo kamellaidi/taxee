@@ -11,11 +11,13 @@
   }
   
   .cars-img {
-    width: 15rem;
+    max-width: 100%;
+    height: auto;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-bottom: 1rem;
   }
+  
   
   .cars-inner-box h2 {
     font-size: 1.5rem;
@@ -35,8 +37,13 @@
     
   @media screen and (max-width: 955px) {
     .cars-inner-box {
-      width: 100%;
+      width: 80%;
       height: auto;
+      display: none;
+    }
+
+    .cars-inner-box:first-child {
+      display: block;
     }
   }
   

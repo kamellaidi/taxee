@@ -8,6 +8,7 @@ const Cars = () => {
   // Gestion des états
   const [startIndex, setStartIndex] = useState(0); // Indice de départ pour l'affichage des taxis
   const [selectedCategory, setSelectedCategory] = useState(''); // Catégorie sélectionnée pour le filtrage
+  
 
   // Fonction pour passer à la page suivante
   const handleNext = () => {
